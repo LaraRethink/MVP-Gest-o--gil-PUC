@@ -13,4 +13,6 @@ Em termos de equipe Scrum para desenvolver o projeto, uma equipe enxuta pode ser
 * Testadores (QA): Responsáveis por garantir a qualidade do produto, identificando e relatando bugs, e realizando testes funcionais e de integração para garantir que o aplicativo atenda aos requisitos e expectativas dos usuários.
 
 
-Url do Miro: https://miro.com/app/board/uXjVKTpn9HY=/?share_link_id=730469880334
+[Url do Miro:] (https://miro.com/app/board/uXjVKTpn9HY=/?share_link_id=730469880334)
+
+Obs: Fiz a maioria diretamente na primeira fileira que seria exemplo pq achei melhor, somente onde não dava para alterar fiz na segunda fileira (embaixo)
