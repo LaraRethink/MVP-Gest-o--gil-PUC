@@ -6,11 +6,11 @@ Para o aplicativo "Fornece Aí", os stakeholders seriam:
 
 Em termos de equipe Scrum para desenvolver o projeto, uma equipe enxuta pode ser composta por:
 
-* Product Owner (PO): Responsável por representar os interesses dos stakeholders, definir as funcionalidades do produto, priorizar o backlog do produto e garantir o valor comercial do trabalho realizado.
-* Scrum Master: Facilitador do processo Scrum, responsável por garantir que a equipe siga os princípios e práticas do Scrum, remover impedimentos e ajudar a equipe a alcançar seus objetivos.
-* Desenvolvedores (Front-end e Back-end): Responsáveis pela implementação das funcionalidades do aplicativo, tanto na parte visual (front-end) quanto na parte lógica e de banco de dados (back-end).
-* Designer UX/UI: Responsável por criar uma experiência de usuário intuitiva e atraente, garantindo que a interface do aplicativo seja fácil de usar e agradável visualmente.
-* Testadores (QA): Responsáveis por garantir a qualidade do produto, identificando e relatando bugs, e realizando testes funcionais e de integração para garantir que o aplicativo atenda aos requisitos e expectativas dos usuários.
+* 1 Product Owner (PO): Responsável por representar os interesses dos stakeholders, definir as funcionalidades do produto, priorizar o backlog do produto e garantir o valor comercial do trabalho realizado.
+* 1 Scrum Master: Facilitador do processo Scrum, responsável por garantir que a equipe siga os princípios e práticas do Scrum, remover impedimentos e ajudar a equipe a alcançar seus objetivos.
+* 2 Desenvolvedores (Front-end e Back-end): Responsáveis pela implementação das funcionalidades do aplicativo, tanto na parte visual (front-end) quanto na parte lógica e de banco de dados (back-end).
+* 1 Designer UX/UI: Responsável por criar uma experiência de usuário intuitiva e atraente, garantindo que a interface do aplicativo seja fácil de usar e agradável visualmente.
+* 1 Testador (QA): Responsável por garantir a qualidade do produto, identificando e relatando bugs, e realizando testes funcionais e de integração para garantir que o aplicativo atenda aos requisitos e expectativas dos usuários.
 
 
 [Url do Miro:] (https://miro.com/app/board/uXjVKTpn9HY=/?share_link_id=730469880334)
